@@ -101,7 +101,6 @@
 
 ### 🌌 *"Code is the language of the future. Let's speak it fluently."* 💫
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=saiteja0704.saiteja0704&left_color=000000&right_color=00D4FF" alt="Visitor Badge" />
 
 **Made with ❤️ by Sai Teja**
 
