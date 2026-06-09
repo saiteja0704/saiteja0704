@@ -20,7 +20,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiteja0704@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2310a37f.svg?style=for-the-badge&logo=phone&logoColor=white)](#)
 
-📍 **Kent, OH**
 
 </div>
 
@@ -30,7 +29,7 @@
 
 > <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtLW/giphy.gif" width="20px" alt="sparkles"/> Crafting elegant solutions to complex problems
 
-- 🎯 **3+ years** of experience building scalable full-stack applications with **Spring Boot**, **React**, and **Angular**
+- 🎯 **5+ years** of experience building scalable full-stack applications with **Spring Boot**, **React**, and **Angular**
 - 🚀 Passionate about **cloud-native technologies**, **microservices architecture**, and **DevOps practices** (Kubernetes, Docker, AWS, Azure)
 - 💡 Dedicated to writing clean, maintainable code and staying at the forefront of modern development trends
 
@@ -159,7 +158,6 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 - 📧 **Email**: [saiteja0704@gmail.com](mailto:saiteja0704@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/saiteja0407](https://www.linkedin.com/in/saiteja0407/)
 - 🌐 **Portfolio**: [saiteja0704.github.io/Portfolio](https://saiteja0704.github.io/Portfolio/)
-- 📱 **Phone**: +1 (123) 238-5184
 
 ---
 
