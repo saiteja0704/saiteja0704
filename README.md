@@ -89,7 +89,6 @@
 🔬 Kubernetes • 🧠 Machine Learning • 📊 Data Architecture • 🌐 GraphQL • 🛡️ Zero-Trust Security • ♿ Web Accessibility
 
 ---
----
 
 ## 🔗 Connect
 
