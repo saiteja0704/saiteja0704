@@ -83,96 +83,17 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
----
-
-## 💼 Experience
-
-### 🌐 Web Administrator — Georgia Southern University
-*Nov 2025 - Present | Statesboro, GA*
-
-Manage 15+ university websites with WCAG 2.1 AA accessibility compliance, improving user task completion by 15% through UX-driven design.
-
-### 💻 Full Stack Developer — Bright Mind Enrichment
-*Feb 2025 - Nov 2025 | Remote*
-
-Built responsive React components with accessibility-first approach, implementing WCAG guidelines and optimizing builds with Webpack.
-
-### 🚀 Software Developer — Dark Horse Digital Solutions
-*May 2021 - Dec 2022 | India*
-
-Architected Spring Boot microservices on Kubernetes, improving system scalability by 30% and REST API response times by 20%. Led Aadhar/PAN verification systems for 20,000+ users.
-
-### 🧪 Automation Testing Engineer — DXC Technologies
-*Nov 2020 - May 2021 | India*
-
-Designed Selenium & TestNG automation frameworks, reducing test execution time by 30% with parallel testing across 40+ test scenarios.
-
-### 🤖 AI Developer Intern — Smart Internz × IBM
-*May 2020 - Aug 2020 | India*
-
-Developed IBM Watson chatbot with 80+ conversation prompts and integrated Watson Discovery improving accuracy by 75%.
-
----
-
-## 🎯 Featured Projects
-
-**Portfolio Website** | React • TypeScript • Tailwind • Figma
-- Responsive design with cross-device compatibility
-
-**Medical Image Analysis** | TensorFlow • OpenCV • PyTorch
-- 0.9130 IoU gastrointestinal segmentation
-
-**Third Eye Traffic Monitoring** | Python • YOLO • OpenCV
-- 75% helmet violation detection with e-challan integration
-
-**Gesture Recognition** | TensorFlow • CNN
-- 85.86% accuracy real-time sign language classification
-
-**Idea Book** | Django • Python • MySQL
-- Collaboration platform for 500+ users
-
-**No-Due Digitization** | PHP • MySQL • JavaScript
-- 60% processing time reduction for university clearance
-
----
-
-## 🎓 Education
-
-**Master of Computer Science** — Kent State University *(GPA: 3.83/4.0)*
-**Bachelor of Computer Science** — JNTUH *(GPA: 3.21/4.0)*
-
----
 
 ## 🌱 Continuous Learning
 
 🔬 Kubernetes • 🧠 Machine Learning • 📊 Data Architecture • 🌐 GraphQL • 🛡️ Zero-Trust Security • ♿ Web Accessibility
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiteja0704&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats" />
-</td>
-<td align="center" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja0704&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 ## 🔗 Connect
 
 📧 [Email](mailto:saiteja0704@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/saiteja0407/) • 🌐 [Portfolio](https://saiteja0704.github.io/Portfolio/) • 🏆 [HackerRank](https://www.hackerrank.com/profile/_SaiTeja_)
-
-📍 Kent, OH | ☎️ +1(123) 238-5184
 
 ---
 
